@@ -1,0 +1,15 @@
+{
+  "name": "save_password",
+  "version": "1.0.0",
+  "description": "App to save the username and password from command line",
+  "main": "app.js",
+  "dependencies": {
+    "base64js": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Rajwar",
+  "license": "ISC"
+}
